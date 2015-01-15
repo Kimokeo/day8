@@ -1,0 +1,93 @@
+
+body {
+	color: rgb(0,0,0);
+	font-size: 16px;
+  	font-family: sans-serif;
+	background-color: #D3E1FF;
+}
+
+p {
+	top: 130px;
+	margin-left: 5px;
+	text-align: center;
+	position: relative;
+}
+
+
+.nycbackground {
+
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.nycpic {
+	left: 300px;
+	top: 200px;
+	position: absolute;
+	height: 560;
+	width: 800;
+
+}
+
+.nycpic2 {
+
+	left: 300px;
+	top: 890px;
+	position: absolute;
+	height: 560;
+	width: 800;
+
+}
+
+.calipic {
+	left: 300px;
+	top: 200px;
+	position: absolute;
+	height: 560;
+	width: 800;
+}
+
+.calipic2 {
+
+	left: 300px;
+	top: 890px;
+	position: absolute;
+	height: 560;
+	width: 800;
+}
+
+.hawaiipic {
+	left: 300px;
+	top: 200px;
+	position: absolute;
+	height: 560;
+	width: 800;
+}
+
+.hawaiipic2 {
+
+	left: 300px;
+	top: 890px;
+	position: absolute;
+	height: 560;
+	width: 800;
+}
+
+.header {
+
+	left: 540px;
+	top: 20px;
+	font-size: 36px;
+	position: absolute;
+
+}
+
+.subheader {
+
+	left: 555px;
+	top: 60px;
+	font-size: 36px;
+	position: absolute;
+
+}
